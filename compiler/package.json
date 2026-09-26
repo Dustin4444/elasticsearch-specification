@@ -26,8 +26,8 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/node": "^24",
-    "ava": "^6",
-    "c8": "^10",
+    "ava": "^7.0.0",
+    "c8": "^11.0.0",
     "prettier": "2.5.1",
     "prettier-plugin-organize-imports": "^4.0.0",
     "ts-node": "^10.4.0",
